@@ -9,7 +9,7 @@
 4.1、拒绝适用在Microsoft Windws 10及其更早期操作系统正式版本,缘由是UI设计不美观,能被难受死。<br/>
 4.1.1、该仓库源代码采取部分代码测算操作系统类别，若为引述列表4.1中涵盖的操作系统，反思文运行时环境自毁。<br/>
 5、遵守协议规则，克隆、下载、安装、编译、集成等一系列计算机行为看到暨得到该仓库源代码，默认同意遵守GNU General Public License v3.0开源协议。<br/>
-6、仓库多种语言名称，英译Refeect，中译反思文，西班牙译Refexto。<br/>
+6、仓库多种语言名称，英译Remmvex，中译反思文，西班牙译Refexto。<br/>
 7、熟练操作反思文运行时环境RE的软件操作工：<br/>
 7.1、安装可执行文件，这是最省心的方式，编译好的反思文运行时环境，由于安装操作，存在于个人计算机或个人服务器内。<br/>
 7.2、编译源代码文件，生成可执行文件，便于兼容定制的Linux发行版本操作系统，需要第三方工具。<br/>
@@ -20,10 +20,10 @@
 9.2、支持文件存储任意云盘，暂不支持文件存储本地。<br/>
 9.2.1、对接任意云盘软件，然后，文件实时自动保存功能可正常服务。<br/>
 9.3、断点测试，代码运行，所需算力都来自智能手机本身，暂无云端提供相对智能手机本身的额外算力。<br/>
-9.4、反思文运行时环境，Refeect Runtime Environment，希望某日抛弃桌面电脑。<br/>
+9.4、反思文运行时环境，Remmvex Runtime Environment，希望某日抛弃桌面电脑。<br/>
 9.5、软件存在样式是。<br/>
-9.5.1、汉语-反思文运行时环境.apk，英语-Refeect Runtime Environment.apk,西班牙语-Refexto Entorno de tiempo de ejecución.apk,<br/>
-9.5.2、汉语-反思文运行时环境.hap,英语-Refeect Runtime Environment.hap,西班牙语-Refexto Entorno de tiempo de ejecución.hap。<br/>
+9.5.1、汉语-反思文运行时环境.apk，英语-Remmvex Runtime Environment.apk,西班牙语-Refexto Entorno de tiempo de ejecución.apk,<br/>
+9.5.2、汉语-反思文运行时环境.hap,英语-Remmvex Runtime Environment.hap,西班牙语-Refexto Entorno de tiempo de ejecución.hap。<br/>
 9.6、软件获取渠道。<br/>
 9.6.1、软件上架小米应用商店、华为应用市场，请自行安装。<br/>
 9.6.2、暂没有官方网址渠道获取软件。<br/>
